@@ -1,0 +1,95 @@
+.search1 .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+}
+.search1 .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+.search1 .nav>.nav-imgl{
+	width:30px;
+	height:30px;
+	left:20px;
+}
+
+.search1 .nav>.search{
+	height:30px;
+	position:relative;
+	margin:50px 70px 0;
+	background-color:#fff;
+	border-radius:25px;
+	padding:0 25px;
+
+}
+.search1 .search>span{
+	display:block;
+	width:15px;
+	height:15px;
+	position:absolute;
+	top:0;
+	bottom:0;
+	margin:auto 0;
+
+}
+.search1 .search>span:nth-child(1){
+	left:5px;
+}
+.search1 .search>span:nth-child(3){
+	right:5px;
+	height:20px;
+}
+.search1 .nav>.search input{
+	width:100%;
+	background-color:transparent;
+	border:none;
+	height:30px;
+
+}
+.search1 .nav>.nav-imgr {
+    right: 20px;
+    width: auto;
+    font-size: 20px;
+}
+.search1 .nav-imgr a{
+	color:#fff;
+}
+.search1 {
+	background:#fff;
+}
+.search1 .hotsearch{
+	overflow:hidden;
+}
+.search1 .hotsearch>div:nth-child(1){
+	border:1px solid #7B7B7B;
+	border-radius: 10px;
+	width:20%;
+	text-align:center;
+	line-height: 25px;
+	margin:10px;
+	font-size:15px;
+	color:#A8A8A8;
+}
+.search1 .hotsearch>div:nth-child(2)>div{
+	background-color:#D3D3D3;
+	border-radius: 10px;
+	float:left;
+	line-height: 30px;
+	width:25%;
+	color:#6C6C6C;
+	text-align:center;
+	margin:10px;
+
+}
+.search1 .history>div:nth-child(1){
+	border:1px solid #7B7B7B;
+	border-radius: 10px;
+	width:20%;
+	text-align:center;
+	line-height: 25px;
+	margin:10px;
+	font-size:15px;
+	color:#A8A8A8;
+}

@@ -1,0 +1,91 @@
+.details .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.details .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.details .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+.details .nav>.nav-imgr{
+	right:20px;
+}
+.details .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.details .nav-imgr{
+	width:26px;
+	height:26px;
+
+}
+.details .detailsimg{
+	position:relative;
+}
+.details .index{
+	position:absolute;
+	bottom:15px;
+	width:80px;
+	margin:0 auto;
+	overflow:hidden;
+	display: block;
+	left:-webkit-calc(50% - 40px);
+	left:calc(50% - 40px);
+}
+.details .index>li{
+	width:10px;
+	height:10px;
+	float:left;
+	margin: 0 5px;
+	border-radius: 10px;
+	background-color: #BEBEBE;
+}
+.details .index>.active{
+	background-color:#E2724A;
+}
+.details .detailswz{
+	padding:0 15px 15px;
+}
+.details .detail,.detai3{
+	line-height:40px;
+	font-size:20px;
+}
+.details .detai2{
+	line-height:25px;
+	font-size:14px;
+}
+.details .detai4{
+	overflow:hidden;
+}
+.details .detai4>div{
+	color:#AAAAAA;
+}
+
+.details .detai3>span{
+	color:#F80100;
+}
+.details .detai3>del{
+	color:#A5A3A4;
+	font-size:16px;
+}
+.details .pj{
+	text-align: center;
+	color:#B5B5B5;
+	line-height: 30px;
+	border-top:1px solid #6D6D6D;
+	padding-bottom:60px;
+}
+

@@ -1,0 +1,73 @@
+
+.evaluate .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.evaluate .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.evaluate .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+
+
+.evaluate .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+
+.evaluate  .evaluate{
+	margin-top:20px;
+	background-color:#e54e18;
+
+}
+.evaluate  .evaluate>div{
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+	padding:20px 0;
+	
+}
+.evaluate  .wz{
+	float:left;
+	text-align:center;
+	line-height:35px;
+	color:#fff;
+}
+
+.evaluate  .money{
+	overflow:hidden;
+	float:right;
+	height:70px;
+}
+.evaluate  .money>div{
+	float:left;
+	width:50px;
+	position:relative;
+
+}
+.evaluate  .money>div:nth-child(2){
+	top:33px;
+}
+
+.evaluate .evalu-btn{
+	width:40%;
+	border:1px solid #e54e18;
+	margin:30px auto 0;
+	text-align: center;
+	color:#e54e18;
+	line-height:30px;
+	border-radius:10px;
+}

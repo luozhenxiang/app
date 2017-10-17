@@ -1,0 +1,103 @@
+
+.comments .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.comments .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.comments .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+
+
+.comments .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.comments .comments{
+	border-bottom:1px solid #ddd;
+	padding:0 15px;
+}
+.comments .comments1{
+	padding:10px 0;
+	line-height: 40px;
+	
+	overflow:hidden;
+}
+.comments .comments1 .commimg{
+	width:18%;
+	max-width:50px;
+	font-size: 14px;
+}
+.comments .comments2{
+	width: 55%;
+	float:left;
+}
+.comments .comments2>div{
+	float:left;
+}
+.comments .comments3{
+	width: 45%;
+	float:right;
+	overflow:hidden;
+}
+.comments .comments3>div{
+	float:left;
+}
+.comments .xinimg{
+	width:50%;
+	max-width:95px;
+	padding:15px 0;
+}
+.comments .comments5{
+	overflow:hidden;
+	padding:10px 0;
+	font-size: 14px;
+}
+.comments .pri{
+	overflow:hidden;
+	width:40%;
+	float:right;
+}
+.comments .prise{
+	float:left;
+	overflow:hidden;
+}
+.comments .prise>div{
+	width:40%;
+	float:left;
+	line-height: 22px;
+	text-align: center;
+	padding-right:2px;
+}
+.comments .comments4{
+	overflow: hidden;
+}
+.comments .comments4>div{
+	float:left;
+	width:10%;
+}
+.comments .fo{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.comments .fo>div{
+	line-height: 60px;
+	text-align:center;
+
+}

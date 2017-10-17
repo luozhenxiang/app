@@ -1,0 +1,27 @@
+.view{
+  transition: all .2s linear;
+  width: 100%;
+  position: relative;
+/*  border: 1px solid #e4393c;*/
+}
+/*旧路由离开*/
+.view.ng-leave {
+  left: 0;
+  opacity: 1;
+  display: none;
+}
+.view.ng-leave.ng-leave-active {
+  left: -100%;
+  opacity: 0;
+  display: none;
+}
+
+/*新路由进入*/
+.view.ng-enter {
+  left: 100%;
+  opacity: 0;
+}
+.view.ng-enter.ng-enter-active {
+  left: 0;
+  opacity: 1;
+}

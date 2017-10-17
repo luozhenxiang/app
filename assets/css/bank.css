@@ -1,0 +1,68 @@
+.bank .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.bank .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+.bank .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+
+
+.bank .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.bank .bank>div{
+	background-color:#7e061f;
+	margin:10px;
+	overflow:hidden;
+	border-radius:10px;
+}
+.bank .bank>div>div{
+	float:left;
+	padding:10px;
+}
+.bank .bank1{
+	max-width:50px;
+	width: -moz-calc(30% - 20px); 
+	width: -webkit-calc(30% - 20px); 
+	width: calc(30% -20px);
+}
+.bank .bank2{
+	width: -moz-calc(70% - 20px); 
+	width: -webkit-calc(70% - 20px); 
+	width: calc(70% -20px);
+}
+.bank .bank2>div{
+	height:25%;
+	line-height: 30px;
+	color:#fff;
+}
+.bank .bank3{
+	background-color:#d6d6d6;
+	height:30px;
+	
+	
+}
+.bank .bank3>div{
+	padding:5px 10px;
+	overflow:hidden;
+
+}
+.bank .bank3>div>div:nth-child(2){
+	width:12px;
+
+}

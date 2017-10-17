@@ -1,0 +1,125 @@
+.Greceipt .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.Greceipt .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.Greceipt .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+
+
+.Greceipt .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.Greceipt{
+	padding-bottom: 50px;
+}
+.Greceipt .gr{
+	padding:0px 10px;
+	border-bottom:1px solid #C1C1C1;
+}
+.Greceipt .grece{
+	overflow:hidden;
+	padding:10px 0;
+	position:relative;
+	
+
+}
+.Greceipt .greceimg{
+	width:-webkit-calc(30% - 15px);
+	width:calc(30% - 15px);
+	padding-left:15px;}
+
+.grece>div{
+	float:left;
+}
+.Greceipt .grecewz{
+ 	width:70%;
+	position: absolute;
+	top:0;
+	right:0;
+	padding:10px 0;
+	height:calc(100% - 20px);
+	height:-webkit-calc(100% - 20px);
+}
+.Greceipt .grecewz1{
+	height:100%;
+}
+.Greceipt .grecewz1>div{
+	width:100%;
+	
+}
+.Greceipt .grecewz1>div:nth-child(1){
+	height:25%;
+}
+.Greceipt .grecewz1>div:nth-child(2){
+	height:50%;
+	line-height: 20px;
+}
+.Greceipt .grecewz1>div:nth-child(3){
+	height:25%;
+}
+.Greceipt .Total{
+	overflow:hidden;
+	position:relative;
+}
+.Greceipt .Total>div:nth-child(1){
+	position:absolute;
+	bottom:0;
+	left:0;
+
+}
+.Greceipt .Total>div:nth-child(2){
+	position:absolute;
+	bottom:0;
+	right:0;
+
+}
+.Greceipt .grecewz1>div:nth-child(1){
+	font-size:15px;
+}
+.Greceipt .mony>div{
+	font-size:13px;
+}
+.Greceipt .mony>div:nth-child(1){
+	color:#E48A33;
+}
+.Greceipt .mony>div:nth-child(2){
+	color:#FA3333;
+}
+.Greceipt .fo{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.Greceipt .fo>div{
+	font-size:18px;
+	text-align:center;
+	color:#fff;
+	line-height:50px;
+	background-color:#E2724A;
+}
+.Greceipt .fl{
+	font-size:12px;
+	color:#868686;
+}
+.Greceipt .fr{
+	font-size: 14px;
+	color:#868686;
+}

@@ -1,0 +1,198 @@
+.payment .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.payment .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.payment .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+.payment .nav>.nav-imgr{
+	right:20px;
+}
+
+.payment .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.payment .fot1>.fot1-left>div{
+	color:#fff;
+}
+
+.payment{
+	background-color:#fff;
+}
+.payment .gr1{
+	border-bottom:0;
+}
+
+.payment .gr{
+	margin-top:0;
+	background-color:#fff;
+	padding:0px 10px;
+	border-bottom:1px solid #C1C1C1;
+}
+
+.payment .mony4>div{
+	font-size:13px;
+}
+.payment .Total>div:nth-child(1){
+	color:#FD1C1F;
+}
+.gre{
+	/*position:relative;
+	top:0;
+	bottom:0;*/
+
+}
+/*.radio{
+	position:relative;
+	
+}*/
+.payment .radio>input{
+	position:absolute;
+	top:0;
+	bottom:0;
+	margin:auto 0;
+}
+.payment .greceimg{
+	width:-webkit-calc(30% - 15px);
+	width:calc(30% - 15px);
+	padding-left:15px;}
+
+.payment .grece{
+	overflow:hidden;
+	padding:10px 0;
+	position:relative;
+	
+
+}
+
+
+.payment .grece>div{
+	float:left;
+}
+.payment .grecewz{
+	color:#787878;
+	width:70%;
+	position: absolute;
+	top:0;
+	right:0;
+	padding:10px 0;
+	height:calc(100% - 20px);
+	height:-webkit-calc(100% - 20px);
+}
+.payment .grecewz1{
+	height:100%;
+}
+.payment .grecewz1>div{
+	width:100%;
+	
+}
+.payment .grecewz1>div:nth-child(1){
+	height:25%;
+	font-size:15px;
+}
+.payment .grecewz1>div:nth-child(2){
+	height:50%;
+	line-height: 20px;
+}
+.payment .grecewz1>div:nth-child(3){
+	height:25%;
+}
+.payment .Total{
+	overflow:hidden;
+	position:relative;
+}
+.payment .Total>div:nth-child(1){
+	position:absolute;
+	bottom:0;
+	left:0;
+
+}
+.payment .Total>div:nth-child(2){
+	position:absolute;
+	bottom:0;
+	right:0;
+
+}
+
+.payment .mony>div{
+	font-size:13px;
+}
+.payment .mony>div:nth-child(1){
+	color:#E48A33;
+}
+.payment .mony>div:nth-child(2){
+	color:#FA3333;
+}
+.payment .fo{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.payment .fo>div{
+	font-size:18px;
+	text-align:center;
+	color:#fff;
+	line-height:50px;
+	background-color:#E2724A;
+}
+.payment .fl{
+	font-size:12px;
+	color:#868686;
+}
+.payment .fr{
+	font-size: 14px;
+	color:#868686;
+}
+
+.payment .fot1{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	overflow:hidden;
+	line-height: 50px
+}
+.payment .fot1 span{
+	color:#F90102;
+}
+.payment .fot1-left{
+	float:left;
+	overflow:hidden;
+	width:-webkit-calc(70% - 20px);
+	width:calc(70% - 20px);
+	background-color:#909090;
+	padding:0 10px;
+
+}
+.payment .fot1-left>div:nth-child(1){
+	float:left;
+}
+.payment .fot1-left>div:nth-child(2){
+	float:right;
+}
+.payment .fot2-right{
+	float:right;
+	width:30%;
+	background-color: #FF6215;
+	color:#fff;
+}
+.payment .fot2-right>div{
+	text-align: center;
+}

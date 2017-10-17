@@ -1,0 +1,176 @@
+
+.yishouh .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.yishouh .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.yishouh .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+
+
+.yishouh .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+
+.yishouh  .mony1>div{
+	font-size: 14px;
+}
+.yishouh  .fl{
+	font-size:12px;
+	color:#FE4643;
+}
+.yishouh  .fr{
+	font-size: 14px;
+	color:#868686;
+}
+/*.gr{
+	padding:10px 0;
+}*/
+.yishouh  .grece1{
+	overflow:hidden;
+	font-size:14px;
+	padding:5px 10px;
+}
+.yishouh  .grece1>div:nth-child(1){
+	float:left;
+}
+.yishouh  .grece1>div:nth-child(2){
+	float:right;
+}
+.yishouh  .fot{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.yishouh  .fot>div{
+	text-align: center;
+	font-size:18px;
+	line-height:50px;
+	color:#818181;
+
+}
+.yishouh  .grecewz1>div:nth-child(1){
+	height:50%;
+	/*line-height:30px;*/
+}
+/*.grecewz>.Total{
+	position:relative;
+}
+.grecewz>.Total>div{
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+	width:100%;
+}*/
+
+.yishouh .gr{
+	padding:0px 10px;
+	border-bottom:1px solid #C1C1C1;
+}
+.yishouh .grece{
+	overflow:hidden;
+	padding:10px 0;
+	position:relative;
+	
+
+}
+.yishouh .greceimg{
+	width:30%;
+}
+
+.yishouh .grece>div{
+	float:left;
+}
+.yishouh .grecewz{
+	width:70%;
+	position: absolute;
+	top:0;
+	right:0;
+	padding:10px 0;
+	height:calc(100% - 20px);
+	height:-webkit-calc(100% - 20px);
+}
+.yishouh .grecewz1{
+	height:100%;
+}
+.yishouh .grecewz1>div{
+	width:100%;
+	
+}
+.yishouh .grecewz1>div:nth-child(1){
+	height:25%;
+}
+.yishouh .grecewz1>div:nth-child(2){
+	height:50%;
+	line-height: 20px;
+}
+.yishouh .grecewz1>div:nth-child(3){
+	height:25%;
+}
+.yishouh .Total{
+	overflow:hidden;
+	position:relative;
+}
+.yishouh .Total>div:nth-child(1){
+	position:absolute;
+	bottom:0;
+	left:0;
+
+}
+.yishouh .Total>div:nth-child(2){
+	position:absolute;
+	bottom:0;
+	right:0;
+
+}
+.yishouh .grecewz1>div:nth-child(1){
+	font-size:15px;
+}
+.yishouh .mony>div{
+	font-size:13px;
+}
+.yishouh .mony>div:nth-child(1){
+	color:#E48A33;
+}
+.yishouh .mony>div:nth-child(2){
+	color:#FA3333;
+}
+.yishouh .fo{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.yishouh .fo>div{
+	font-size:18px;
+	text-align:center;
+	color:#fff;
+	line-height:50px;
+	background-color:#E2724A;
+}
+.yishouh .fl{
+	font-size:12px;
+	color:#868686;
+}
+.yishouh .fr{
+	font-size: 14px;
+	color:#868686;
+}

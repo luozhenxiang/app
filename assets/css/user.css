@@ -1,0 +1,153 @@
+.user .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.user .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.user .nav>.nav-imgl{
+	width:23px;
+	left:20px;
+}
+.user .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.user .user{
+	background:url(../../image/layer-2.png) no-repeat 0 0;
+	height:160px;
+}
+.user .user>div{
+	width:50%;
+	margin:0 auto;
+	padding-top:30px;
+}
+.user .user1{
+	width:50px;
+	height:50px;
+	border-radius: 50px;
+	border:1px solid #fff;
+	background-color:#fff;
+	overflow:hidden;
+	margin:0px auto 30px;
+
+}
+.user .user1>div{
+	width:70%;
+	margin:0 auto;
+}
+.user .login1,.re1{
+	width:35%;
+	line-height:25px;
+	background-color:#e2724a;
+	color:#fff;
+	text-align:center;
+}
+
+.user .menu2{
+	background-color:#fff;
+	border-bottom:1px solid #858585;
+}
+.user .menu2>ul{
+	overflow:hidden;
+}
+.user .menu2>ul>li{
+	float:left;
+	width:25%;
+	height:50px;
+	position:relative;
+}
+.user .trans2{
+	width:70%;
+	position:absolute;
+	top:50%;
+	left:15%;
+	transform:translateY(-50%);
+	margin:0 auto;
+}
+.user .tab2{
+	max-width:24px;
+	margin:0 auto;
+}
+.user .trans2>p{
+	text-align:center;
+	font-size:12px;
+	color:#A5A5A5;
+}
+.user .user3{
+	padding-bottom:60px;
+}
+.user .user3>ul{
+	margin:0 auto;
+}
+.user .user3>ul>li{
+	overflow:hidden;
+	height:45px;
+	border-bottom:1px solid #858585;
+}
+.user .user3 a>div{
+	
+	width:90%;
+	margin:12px auto 0;
+	overflow:hidden;
+}
+.user .user3 p{
+	color:#9C9C9C;
+}
+.user .fl>div{
+	float:left;
+}
+.user .collect{
+	width:15%;
+	padding-right:10px;
+}
+.user .bakc{
+	width:12px;
+	float:right;
+}
+ 
+
+/*.user .menu{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	background-color:#fff;
+}
+.user .menu>ul{
+	overflow:hidden;
+}
+.user .menu>ul>li{
+	float:left;
+	width:25%;
+	height:60px;
+	position:relative;
+}
+.user .trans{
+	width:70%;
+	position:absolute;
+	top:50%;
+	left:20%;
+	transform:translateY(-50%);
+	margin:0 auto;
+}
+.user .tab{
+	max-width:32px;
+	margin:0 auto;
+}
+.user .trans>p{
+	text-align:center;
+	font-size:14px;
+	color:#959595;
+}*/
+

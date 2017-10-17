@@ -1,0 +1,29 @@
+body{
+	margin:0 auto;
+	padding:0;
+}
+ul,li,ol,p,input,div{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+img,a,a:hover,input{
+	outline:none;
+}
+a,a:hover{
+	text-decoration:none;
+}
+img{
+	width:100%;
+	height:auto;
+	display:block;
+}
+i,span{
+	display:inline-block;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}

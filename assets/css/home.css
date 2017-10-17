@@ -1,0 +1,253 @@
+
+.home{
+	background-color:#e6e6e6;
+}
+.home .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+}
+.home .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+.home .nav>.nav-imgl{
+	width:30px;
+	height:30px;
+	left:20px;
+}
+.home .nav>.nav-imgr{
+	width:30px;
+	height:30px;
+	right:20px;
+}
+.home .nav>.search{
+	height:30px;
+	position:relative;
+	margin:50px 70px 0;
+	background-color:#fff;
+	border-radius:25px;
+	padding:0 25px;
+
+}
+.home .search>span{
+	display:block;
+	width:15px;
+	height:15px;
+	position:absolute;
+	top:0;
+	bottom:0;
+	margin:auto 0;
+
+}
+.home .search>span:nth-child(1){
+	left:5px;
+}
+.home .search>span:nth-child(3){
+	right:5px;
+	height:20px;
+}
+.home .nav>.search input{
+	width:100%;
+	background-color:transparent;
+	border:none;
+	height:30px;
+
+}
+.home .toolbar{
+	background-color:#fff;
+}
+.home .max-toolbar{
+	overflow:hidden;
+}
+.home .max-toolbar>div{
+	float:left;
+	width:25%;
+}
+.home .max-toolbar>div>.img{
+	width:60%;
+	margin:15px 20%;
+}
+.home .max-toolbar p{
+	text-align:center;
+	padding-bottom:20px;
+	color:#919191;
+}
+
+.home .sales{
+	margin-top:20px;
+	background-color:#fff;
+	overflow:hidden;
+	position:relative;
+	height:100%;
+
+}
+
+.home .sales>div{
+	float:left;
+}
+.home .sales>.sales-left{
+	width:40%;
+	
+}
+.home .sales>.sales-right{
+	border-left:1px solid #ddd;
+	width:-webkit-calc(60% - 1px);
+	width:-moz-calc(60% - 1px);
+	width:calc(60% - 1px);
+	position:absolute;
+	top:0;
+	right:0;
+	height:100%;
+}
+.home .sales-left>div{
+	padding-top:15px;
+	padding-left:15px;
+	
+}
+.home .sa-top{
+	overflow:hidden;
+	/*padding-left:5px;
+	padding-bottom:5px;*/
+}
+.home .sa-top>div{
+	float:left;
+}
+.home .new-le{
+	padding-left:30px;
+}
+.home .sales-img{
+	max-width:25px;
+	padding:0 5px;
+}
+.home .sales-f1{
+	font-size:20px;
+	color:#f52424;
+	line-height: 28px;
+	
+}
+.home .center{
+	text-align:center;
+}
+.home .sales-f2{
+	font-size:15px;
+	color:#f77b4a;
+}
+
+.home .sales-f3{
+	font-size:15px;
+	color:#f52424;
+	text-align:center;
+	padding-bottom: 15px;
+	
+
+}
+.home .leyer4{
+	width:100%;
+}
+
+.home .sales-right>div{
+	padding-top:15px;
+	padding-left:15px;
+	height:-ms-calc(50% - 15px);
+	height:calc(50% - 15px);
+
+}
+.home .sales-right>div:nth-child(1){
+	border-bottom:1px solid #ddd;
+
+}
+.home .fire-img{
+	width:30%;
+}
+.home .sa-bot{
+	overflow:hidden;
+	position: relative;
+}
+.home .sa-bot>div{
+	float:left;
+}
+.home .cx{
+	width:70%;
+	position:absolute;
+	top: 0;
+	right:0;
+	height:100%;
+}
+.home .cx>div{
+	height:33.33%;
+}
+.home .cx1{
+	width:70%;
+	height:100%;
+	position:absolute;
+	top:0;
+	right:0;
+}
+.home .cx1>div{
+	height:50%;
+}
+.home .sales-f5{
+	font-size:10px;
+	color:#f77b4a;
+}
+.home .sales-f4{
+	font-size:15px;
+	color:#f52424;
+	position:relative;
+}
+.home .sales-f4>span{
+	position:absolute;
+	bottom:0;
+	left:0;
+}
+
+.home .sales2{
+	margin-top:20px;
+	background-color:#fff;
+	padding-bottom: 60px;
+
+}
+.home .sales2-top{
+	overflow:hidden;
+	padding:10px 15px;
+}
+.home .top-1{
+	overflow:hidden;
+}
+.home .top-1>div{
+	width:30%;
+	float:left;
+}
+.home  .top-1>span{
+	color:#3EC15D;
+	float:left;
+}
+.home  .gd{
+	float:right;
+	font-size: 15px;
+	color:#C3C3C3;
+	
+	
+}
+.home  .sales2-bot{
+	position:relative;
+	height:100%;
+	overflow:hidden;
+}
+.home  .bot-left{
+	float:left;
+	width:65%;
+	
+}
+.home  .bot-right{
+	float:right;
+	width:35%;
+	height:100%;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right: 0;
+}

@@ -1,0 +1,171 @@
+.Shopping .btn span{
+	width:15px;
+	height:15px;
+	background-color: #D64F24;
+	text-align: center;
+	color:#fff;
+	line-height: 12px;
+	border-radius:50px;
+}
+.Shopping .btn input{
+	width:15px;
+	text-align: center;
+	border:none;
+}
+
+.Shopping .fot1{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	overflow:hidden;
+	line-height: 50px;
+	bottom:50px;
+}
+.Shopping .fot1 span{
+	color:#F90102;
+}
+.Shopping .fot1-left{
+	float:left;
+	overflow:hidden;
+	width:-webkit-calc(70% - 20px);
+	width:calc(70% - 20px);
+	background-color:#909090;
+	padding:0 10px;
+
+}
+.Shopping .fot1-left>div:nth-child(1){
+	float:left;
+}
+.Shopping .fot1-left>div:nth-child(2){
+	float:right;
+}
+.Shopping .fot2-right{
+	float:right;
+	width:30%;
+	background-color: #FF6215;
+	color:#fff;
+}
+.Shopping .fot2-right>div{
+	text-align: center;
+}
+
+.Shopping .fot1-left>div{
+	color:#fff;
+}
+.Shopping{
+	padding-bottom:110px;
+}
+.Shopping .gr{
+	margin-top:15px;
+	background-color:#fff;
+	padding:0px 10px;
+	border-bottom:1px solid #C1C1C1;
+}
+
+.Shopping .mony4>div{
+	font-size:12px;
+}
+.Shopping .Total>div:nth-child(1){
+	color:#FD1C1F;
+}
+
+.Shopping .radio>input{
+	position:absolute;
+	top:0;
+	bottom:0;
+	margin:auto 0;
+}
+.Shopping .greceimg{
+	width:-webkit-calc(30% - 15px);
+	width:calc(30% - 15px);
+	padding-left:15px;}
+
+.Shopping .grece{
+	overflow:hidden;
+	padding:10px 0;
+	position:relative;
+	
+
+}
+
+
+.Shopping .grece>div{
+	float:left;
+}
+.Shopping .grecewz{
+	color:#787878;
+	width:70%;
+	position: absolute;
+	top:0;
+	right:0;
+	padding:10px 0;
+	height:calc(100% - 20px);
+	height:-webkit-calc(100% - 20px);
+}
+.Shopping .grecewz1{
+	height:100%;
+}
+.Shopping .grecewz1>div{
+	width:100%;
+	
+}
+.Shopping .grecewz1>div:nth-child(1){
+	height:25%;
+	font-size:14px;
+}
+.Shopping .grecewz1>div:nth-child(2){
+	height:50%;
+	line-height: 20px;
+}
+.Shopping .grecewz1>div:nth-child(3){
+	height:25%;
+}
+.Shopping .Total{
+	overflow:hidden;
+	position:relative;
+}
+.Shopping .Total>div:nth-child(1){
+	position:absolute;
+	bottom:0;
+	left:0;
+
+}
+.Shopping .Total>div:nth-child(2){
+	position:absolute;
+	bottom:0;
+	right:0;
+
+}
+
+.Shopping .mony>div{
+	font-size:13px;
+}
+.Shopping .mony>div:nth-child(1){
+	color:#E48A33;
+}
+.Shopping .mony>div:nth-child(2){
+	color:#FA3333;
+}
+.Shopping .fo{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.Shopping .fo>div{
+	font-size:18px;
+	text-align:center;
+	color:#fff;
+	line-height:50px;
+	background-color:#E2724A;
+}
+.Shopping .fl{
+	font-size:12px;
+	color:#868686;
+}
+.Shopping .fr{
+	font-size: 14px;
+	color:#868686;
+}
+

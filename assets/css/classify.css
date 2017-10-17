@@ -1,0 +1,139 @@
+
+.classif .classify{
+	margin-top:20px;
+	
+}
+.classif>ul{
+	overflow:hidden;
+}
+.classif .classifyl{
+	width:49%;
+	text-align: center;
+	line-height:30px;
+	padding:10px 0;
+	background-color:#ed8c0e;
+	color:#fff;
+	overflow:hidden;
+}
+/*.cla{
+	width:50%;
+	margin:0 auto;
+}
+.cla>div:nth-child(2){
+	width:50%;
+	margin:0 auto;
+}*/
+
+.classif li{
+	float:left;
+	margin-bottom:5px;
+}
+.classif li:nth-child(even){
+	margin-left:2%;
+}
+.classif .classifyl>div:nth-child(2){
+	width:45%;
+	margin:0 auto;
+	height:70px;
+	max-width:80px;
+
+}
+.classif .classify2>div:nth-child(2){
+	width:35%;
+	margin:0 auto;
+	max-width:26px;
+}
+.classif .classify3>div:nth-child(2){
+	width:35%;
+	margin:0 auto;
+	max-width:36px;
+}
+/*.classify .menu{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	background-color:#fff;
+}
+.classify .menu>ul{
+	overflow:hidden;
+}
+.classify .menu>ul>li{
+	float:left;
+	width:25%;
+	height:60px;
+	position:relative;
+}
+.classify .munu a{
+	color:#959595;
+}
+.classify .trans{
+	width:70%;
+	position:absolute;
+	top:50%;
+	left:20%;
+	transform:translateY(-50%);
+	margin:0 auto;
+}
+.classify .tab{
+	max-width:32px;
+	margin:0 auto;
+}
+.classify .trans>p{
+	text-align:center;
+	font-size:14px;
+}*/
+.classif .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+}
+.classif .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+.classif .nav>.nav-imgl{
+	width:30px;
+	height:30px;
+	left:20px;
+}
+.classif .nav>.nav-imgr{
+	width:30px;
+	height:30px;
+	right:20px;
+}
+.classif .nav>.search{
+	height:30px;
+	position:relative;
+	margin:50px 70px 0;
+	background-color:#fff;
+	border-radius:25px;
+	padding:0 25px;
+
+}
+.classif .search>span{
+	display:block;
+	width:15px;
+	height:15px;
+	position:absolute;
+	top:0;
+	bottom:0;
+	margin:auto 0;
+
+}
+.classif .search>span:nth-child(1){
+	left:5px;
+}
+.classif .search>span:nth-child(3){
+	right:5px;
+	height:20px;
+}
+.classif .nav>.search input{
+	width:100%;
+	background-color:transparent;
+	border:none;
+	height:30px;
+
+}

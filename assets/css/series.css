@@ -1,0 +1,149 @@
+.series .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.series .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+.series .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+.series .nav>.nav-imgr{
+	right:20px;
+}
+
+.series .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+
+.series .paihang{
+	overflow:hidden;
+	background-color:#FAAB8D;
+}
+.series .paihang>div{
+	width:33.33%;
+	float:left;
+	text-align: center;
+	line-height: 25px;
+	color:#fff;
+}
+.series .paihang>div:nth-child(2){
+	color:#FF3034;
+}
+.series .paihang i{
+	width:12px;
+	position:relative;
+	top:2px;
+}
+.series  .gr{
+	padding:0px 10px;
+	border-bottom:1px solid #C1C1C1;
+}
+.series .grece{
+	overflow:hidden;
+	padding:10px 0;
+	position:relative;
+	
+
+}
+.series .greceimg{
+	width:-webkit-calc(30% - 15px);
+	width:calc(30% - 15px);
+	padding-left:15px;}
+}
+
+.series .grece>div{
+	float:left;
+}
+.series .grecewz{
+	width:70%;
+	position: absolute;
+	top:0;
+	right:0;
+	padding:10px 0;
+	height:calc(100% - 20px);
+	height:-webkit-calc(100% - 20px);
+}
+.series .grecewz1{
+	height:100%;
+}
+.series .grecewz1>div{
+	width:100%;
+	
+}
+.series .grecewz1>div:nth-child(1){
+	font-size: 14px;
+	height:25%;
+}
+.series .grecewz1>div:nth-child(2){
+	height:50%;
+	line-height: 20px;
+	font-size: 12px
+}
+.series .grecewz1>div:nth-child(3){
+	height:25%;
+}
+.series .Total{
+	overflow:hidden;
+	position:relative;
+	font-size: 12px
+}
+.series .Total>div:nth-child(1){
+	position:absolute;
+	bottom:0;
+	left:0;
+
+}
+.series .Total>div:nth-child(2){
+	position:absolute;
+	bottom:0;
+	right:0;
+
+}
+
+
+.series .mony1{
+	position:relative;
+}
+.series .mony1>div{
+	font-size: 13px;
+
+}
+.series .mony1>.monyleft>div:nth-child(1){
+	color:#E48A33;
+}
+.series .mony1>.monyleft>div:nth-child(2){
+	color:#FA3333;
+}
+.series .monyleft{
+	position:absolute;
+	bottom: 0;
+	left:0;
+}
+.series .monyright{
+	color:#929292;position:absolute;
+	bottom: 0;
+	right:0;
+}
+
+
+.series .fl{
+	font-size:12px;
+	color:#868686;
+}
+.series .fr{
+	font-size: 14px;
+	color:#868686;
+}

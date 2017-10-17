@@ -1,0 +1,112 @@
+ 
+	<title>个人中心</title>
+	
+
+	<div ng-swipe-left="goState('menu.home');" ng-swipe-right="goState('menu.Shopping');" class="user">
+		<div class="nav">
+			<div class="nav-imgl" ng-click="goState('data');">
+				<a ><img src="./image/setup.png" alt="" /></a>
+			</div>
+			<div class="addr">我的</div>
+			
+		</div>
+		<div class="user">
+			<div>
+			<div class="user1">
+				<div><img src="./image/user2.png" alt=""></div>
+			</div>
+			<div ui-sref="login" class="login1 fl">登陆</div>
+			<div ui-sref="register" class="re1 fr">注册</div>
+			</div>
+			
+		</div>
+		<div class="menu2">
+			<ul>
+				<li>
+					<div class="trans2" ng-click="goState('payment');">
+						<div class="tab2"><img src="./image/moneybag.png" alt="">
+						</div>
+						<p>待付款</p>
+					</div>	
+				</li>
+				<li>
+					<a ng-click="goState('Greceipt');">
+						<div class="trans2">
+							<div class="tab2"><img src="./image/bag.png" alt="">
+							</div>
+							<p>待收货</p>
+						</div>	
+					</a>
+				</li>
+				<li>
+					<a  ng-click="goState('evaluate');">
+						<div class="trans2">
+							<div class="tab2"><img src="./image/valuate.png" alt="">
+							</div>
+							<p>待评价</p>
+						</div>	
+					</a>
+				</li>
+				<li>
+					<a ng-click="goState('yishouh');">
+						<div class="trans2">
+							<div class="tab2"><img src="./image/order.png" alt="">
+							</div>
+							<p>我的订单</p>
+						</div>
+					</a>	
+				</li>
+			</ul>
+		</div>
+		<div class="user3">
+			<ul>
+				<li>
+					<a ng-click="goState('Collection');">
+						<div>
+							<div class="fl"><div class="collect"><img src="./image/collect.png" alt=""></div>
+							<div><p>我的收藏</p></div></div>
+								<div class="bakc"><img src="./image/bakc.png" alt=""></div>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a ng-click="goState('record');">
+						<div>
+							<div class="fl"><div class="collect"><img src="./image/hot.png" alt=""></div>
+							<div><p>购买记录</p></div></div>
+								<div class="bakc"><img src="./image/bakc.png" alt=""></div>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a ng-click="goState('comments');">
+						<div>
+							<div class="fl"><div class="collect"><img src="./image/valuate1.png" alt=""></div>
+							<div><p>我的评论</p></div></div>
+								<div class="bakc"><img src="./image/bakc.png" alt=""></div>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a ng-click="goState('address');">
+						<div>
+							<div class="fl"><div class="collect"><img src="./image/adress.png" alt=""></div>
+							<div><p>我的收获地址</p></div></div>
+								<div class="bakc"><img src="./image/bakc.png" alt=""></div>
+						</div>
+					</a>
+
+				</li>
+				<li>
+					<a ng-click="goState('balance');">
+						<div>
+							<div class="fl"><div class="collect"><img src="./image/money2x.png" alt=""></div>
+							<div><p>我的余额</p></div></div>
+								<div class="bakc"><img src="./image/bakc.png" alt=""></div>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+

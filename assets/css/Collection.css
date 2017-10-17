@@ -1,0 +1,150 @@
+
+
+.Collection .nav{
+	height:80px;
+	background-color:#e2724a;
+	text-align:center;
+	position:relative;
+	overflow:hidden;
+	font-size:20px;
+	color:#fff;
+	letter-spacing:2px;
+}
+.Collection .nav>div{
+	position:absolute;
+	bottom:10px;
+}
+
+.Collection .nav>.nav-imgl{
+	width:12px;
+	height:22px;
+	left:20px;
+}
+
+
+.Collection .nav>.addr{
+	width:135px;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.Collection .delete{
+	height:100%;
+	width:100px;
+	background-color:#FE3C3C;
+	color:#fff;
+	text-align: center;
+	float:right;
+	position:absolute;
+	right:-100px;
+	padding:15% 0 0;
+}
+
+.Collection .gr{
+	overflow:hidden;
+	position:relative;
+}
+.Collection .grece{
+	float:left;
+	width:100%;
+}
+.Collection .delete1{
+		right:0px;
+}
+.Collection .gr{
+	padding:0px 10px;
+	border-bottom:1px solid #C1C1C1;
+}
+.Collection .grece{
+	overflow:hidden;
+	padding:10px 0;
+	position:relative;
+	
+
+}
+.Collection .greceimg{
+	width:30%;
+}
+
+.Collection .grece>div{
+	float:left;
+}
+.Collection .grecewz{
+	width:70%;
+	position: absolute;
+	top:0;
+	right:0;
+	padding:10px 0;
+	height:calc(100% - 20px);
+	height:-webkit-calc(100% - 20px);
+}
+.Collection  .grecewz1{
+	height:100%;
+}
+.Collection  .grecewz1>div{
+	width:100%;
+	
+}
+.Collection  .grecewz1>div:nth-child(1){
+	height:25%;
+}
+.Collection  .grecewz1>div:nth-child(2){
+	height:50%;
+	line-height: 20px;
+}
+.Collection  .grecewz1>div:nth-child(3){
+	height:25%;
+}
+.Total{
+	overflow:hidden;
+	position:relative;
+}
+.Collection  .Total>div:nth-child(1){
+	position:absolute;
+	bottom:0;
+	left:0;
+
+}
+.Collection  .Total>div:nth-child(2){
+	position:absolute;
+	bottom:0;
+	right:0;
+
+}
+.Collection  .grecewz1>div:nth-child(1){
+	font-size:15px;
+}
+
+.Collection  .mony1{
+	position:relative;
+}
+.Collection  .mony1>div{
+	font-size: 13px;
+
+}
+.Collection  .mony1>.monyleft>div:nth-child(1){
+	color:#E48A33;
+}
+.Collection  .mony1>.monyleft>div:nth-child(2){
+	color:#FA3333;
+}
+.Collection  .monyleft{
+	position:absolute;
+	bottom: 0;
+	left:0;
+}
+.Collection  .monyright{
+	color:#929292;position:absolute;
+	bottom: 0;
+	right:0;
+}
+
+
+.Collection  .fl{
+	font-size:12px;
+	color:#868686;
+}
+.Collection  .fr{
+	font-size: 14px;
+	color:#868686;
+}
